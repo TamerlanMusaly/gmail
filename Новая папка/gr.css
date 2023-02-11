@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(35, 29, 29);
+    width: 100%;
+    height: 250vh;
+}
+.class1{
+background-color: grey;
+width: 550px;
+height: 50px;
+
+}
+label{
+    color: white;
+}
+p{
+    color: white;
+}
+button{
+    color: white;
+    background-color: green;
+    border: none;
+}
+.button{
+    margin-top: 15px;
+}
+.label{
+    margin-left: 10px;
+}
+input{
+    background-color: black;
+    color: white;
+}
+.fieldset{
+    width: 270px;
+    height: 80px;
+    margin-left: 8px;
+}
+legend{
+    color: white;
+}
+.class2{
+    background-color: grey;
+width: 300px;
+height: 150px;
+}
+.button2{
+    margin-left: 8px;
+}
+.class3{
+    background-color: grey;
+    width: 410px;
+    height: 50px;
+}
+.in{
+    margin-top: 15px;
+}
+.label1{
+margin-left: 8px;
+}
+.class4{
+    background-color: grey;
+    width: 270px;
+    height: 50px;
+}
+.inn{
+    margin-top: 15px;
+    margin-left: 8px;
+}
+.class5{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(90deg, red,blue);
+}
+.class6{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(-90deg, red,blue);
+}
+.class7{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(180deg, blue,red);
+}
+.class8{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(360deg, blue,red);
+}
+.class9{
+    width: 80px;
+    height: 80px;
+    background:linear-gradient(90deg, red,blue);
+}
+.class10{
+    width: 80px;
+    height: 80px;
+    background:linear-gradient(to bottom left, blue,red);
+}
+.class11{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(to bottom right,blue,red);
+}
+.class12{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(90deg, red,blue,green);
+}
+.class13{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(90deg, red,blue,green,red);
+}
+.class14{
+    width: 80px;
+    height: 80px;
+    border-radius: 30px;
+    background: radial-gradient(red,blue 60%,rgb(5, 92, 0) 10%);
+}
+.class15{
+    width: 80px;
+    height: 80px;
+    background: repeating-linear-gradient(red,red 5px,blue 5px,blue 10px);
+}
+.class16{
+    width: 80px;
+    height: 80px;
+    background: repeating-radial-gradient(red,red 5px,blue 5px,blue 10px);
+}
